@@ -23,35 +23,29 @@ A fan-made **MOBA-style map** for **Warcraft III: The Frozen Throne**, created u
   ```
   Warcraft III/redist/miles
   ```
-
----
-
-3. Adjust In-Game Settings:
+3. Place the **bypass file (.mix)** in the folder:
+  ```
+  Warcraft III
+  ```
+4. Adjust In-Game Settings:
 - Open **Warcraft III**.
 - Go to **Options** -> **Video**.
 - Set **all graphics settings to High** for the best experience.
-
----
-
-4. Apply the Bypass File:
-- Install the **bypass file** to allow maps larger than **8MB** to load correctly in **Warcraft III**.
-
 ---
 
 
 ##### 📋 **Credits Model**
-| Source                | Link                            |
-|-----------------------|---------------------------------|
-| VK Mdx WC3            | https://vk.com/mdxwc3           |
-| Hive Workshop         | https://www.hiveworkshop.com/   |
-| Chaos Realm           | https://chaosrealm.co/          |
-
----
-
+| Source                | Link                                      |
+|-----------------------|-------------------------------------------|
+| VK Mdx WC3            | [Visit Source](https://vk.com/mdxwc3)     |
+| Hive Workshop         | [Visit Source](https://www.hiveworkshop.com/) |
+| Chaos Realm           | [Visit Source](https://chaosrealm.co/)    |
 
 ---
 
 ### 🧑‍💻 **Other Projects**
+
+---
 
 ## 📜 **License**
 This repository and all included projects are licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.  
