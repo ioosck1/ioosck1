@@ -1,28 +1,69 @@
-# Anime MOBA Map (Fan-made)
+# 🎮 My Game Development Portfolio
 
-This is a fan-made map for **Warcraft III: The Frozen Throne** using **WorldEdit**, inspired by anime characters and elements. The game features a **MOBA-style** gameplay, similar to popular multiplayer battle arena games.
+This repository showcases my **Game Development Projects** as well as **other programming projects** I have worked on. The projects include custom maps, tools, and scripts that demonstrate my skills in **coding**, **problem-solving**, and **game modding**.
 
-The project is non-commercial and intended purely for **learning** and **fun**. It uses models from anime, which are credited to their original creators.
+## 📚 **Projects**
 
-## License
+### 🕹️ **Game Development Projects**
 
-This map is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**. Please refer to the [LICENSE.txt](LICENSE.txt) file for full license details.
+#### **1. Anime MOBA Map (Fan-made)**
+A fan-made **MOBA-style map** for **Warcraft III: The Frozen Throne**, created using **WorldEdit**. This project showcases my skills in **level design**, **scripting**, and working with custom models.
 
-## How to Play
+##### 📥 **Download & Setup**
+- **Map file (.w3x)**: [Download Link](https://drive.google.com/file/d/1AWgwFB4NwI40oNgwdcZqy-gApe05fevr/view)  
+- **Model pack (.mix)**: [Download Link](#)  
+- **Bypass file**: [Download Link](https://www.hiveworkshop.com/threads/warcraft-iii-bypass-map-file-size-limit-ver-6.259571/)
 
-Instructions on how to play the game...
+##### 🛠️ **Installation Steps**
+1. Place the **map file (.w3x)** in the folder:
+  ```
+  Warcraft III/Maps/Downloads
+  ```
+2. Place the **model pack (.mix)** in the folder:
+  ```
+  Warcraft III/redist/miles
+  ```
 
-## Credits
+---
 
-### Models
-- https://vk.com/mdxwc3
-- https://www.hiveworkshop.com/repositories/models.530/
-- https://chaosrealm.co/viewforum.php?f=8&sid=a01f0fa0ebf8e7ff6b7c55108401952c
+3. Adjust In-Game Settings:
+- Open **Warcraft III**.
+- Go to **Options** -> **Video**.
+- Set **all graphics settings to High** for the best experience.
 
-## Disclaimer
+---
 
-This project is a **fan-made** map and **not for commercial use**. All anime characters and models used in this project are **property of their respective copyright holders**. The creator does not claim ownership of any copyrighted materials. This project is intended solely for personal use, learning, and entertainment.
+4. Apply the Bypass File:
+- Install the **bypass file** to allow maps larger than **8MB** to load correctly in **Warcraft III**.
 
-## Note
+---
 
-Please respect the rights of the original creators. Ensure that any use of this map is compliant with relevant copyright laws and that no commercial use is made from the materials used in this project.
+
+##### 📋 **Credits Model**
+| Source                | Link                            |
+|-----------------------|---------------------------------|
+| VK Mdx WC3            | https://vk.com/mdxwc3           |
+| Hive Workshop         | https://www.hiveworkshop.com/   |
+| Chaos Realm           | https://chaosrealm.co/          |
+
+---
+
+
+---
+
+### 🧑‍💻 **Other Projects**
+
+## 📜 **License**
+This repository and all included projects are licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.  
+
+For more details, see the **[LICENSE.txt](LICENSE.txt)** file.
+
+---
+
+## ⚠️ **Disclaimer**
+All projects in this repository are **non-commercial** and intended for **learning** and **portfolio purposes** only. Any copyrighted materials used in the projects remain the property of their respective owners. I do not claim ownership of any copyrighted content used in these projects.
+
+---
+
+## 📝 **Note**
+Please respect the original creators and ensure that any use of this repository complies with relevant copyright laws.
