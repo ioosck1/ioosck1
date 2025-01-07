@@ -1,27 +1,21 @@
-# Custom Maps for Warcraft III (Using WorldEdit)
+# Anime MOBA Map (Fan-made)
 
-## Overview
-This repository contains a collection of **custom maps** created for **Warcraft III** using **WorldEdit**. These maps feature unique game mechanics and custom scripting designed to enhance gameplay.
-
-## Skills Used
-- **WorldEdit** (Map Design, Scripting)
-- **Custom Scripts** for enhanced gameplay
-- **Gameplay Mechanics** (Objective-based maps, puzzles, etc.)
-
-## Projects
-- **Map 1**: A custom RPG map featuring a complex quest system.
-- **Map 2**: A tower defense map with unique waves and abilities.
-
-## How to Play
-1. Download the map file from the releases section.
-2. Open Warcraft III, go to "Custom Games," and select the downloaded map.
-3. Enjoy playing!
-
-## Example Videos
-You can check out gameplay videos of the maps here: [YouTube Link](https://www.youtube.com/your-video-link)
-
-## Installation
-Download the map from the **Releases** section, then follow the instructions to load it into **Warcraft III**.
+This project is a fan-made map for **Warcraft III: The Frozen Throne** using **WorldEdit**. It features anime-inspired characters and elements. Please note that some of the models and characters used in this project are copyrighted and are only available for **non-commercial use**.
 
 ## License
-This repository is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more information.
+This map is provided under the [MIT License](LICENSE). However, the anime characters and models used are subject to copyright laws and cannot be used for commercial purposes without permission from the original creators.
+
+## How to Play
+- Instructions on how to play the game...
+
+## Credits
+- **Models**: 
+- **Music**:
+
+- **Game Engine**: Warcraft III: The Frozen Throne (Blizzard Entertainment)
+
+## Disclaimer
+This is a fan-made project and is not for commercial use. All anime characters used are property of their respective copyright holders. The creator of this map does not claim ownership of any copyrighted materials and the project is intended purely for personal use, learning, and fun.
+
+## Note
+Please respect the original creators and ensure that any use of this map is in compliance with relevant copyright laws.
