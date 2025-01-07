@@ -45,72 +45,88 @@ A fan-made **MOBA-style map** for **Warcraft III: The Frozen Throne**, created u
 
 These are projects I have completed as part of coursework, with the final submission to the instructor. No further revisions were made after submission.
 
-### **1️⃣ Alco-Free Helper Chatbot** (Python)  
-A chatbot developed using **Python** on **Google Colab** to promote healthy lifestyle choices by recommending non-alcoholic drinks. The chatbot was trained using a machine learning model with **6 predefined classes**, each class corresponding to a different type of response.  
+### **Alco-Free Helper Chatbot** (Python)  
+This project is a chatbot that promotes healthy lifestyle choices by suggesting **non-alcoholic drinks**. The chatbot is built using **Python** and trained on a dataset of predefined phrases categorized into **6 different classes**. The AI responds with fixed answers based on the detected class.
 
-#### **Features**:
-- Utilizes **NLP (Natural Language Processing)** to understand user queries.  
-- Responds with predefined answers based on the detected class.  
-
-🔗 [[Download Chatbot Detail]](https://drive.google.com/file/d/1Dv4lfBYVDrJ_FkvrqYGSY6O6aX8vdZYt/view?usp=sharing)
+🔗 [Download Chatbot Detail](https://drive.google.com/file/d/1Dv4lfBYVDrJ_FkvrqYGSY6O6aX8vdZYt/view?usp=sharing)
 
 ---
 
-### **2️⃣ Tree Calculate Expression** (Java)  
-A command-line program that evaluates mathematical expressions using **binary expression trees**. The program allows users to input expressions in **prefix**, **infix**, or **postfix** notations and calculates the result accordingly.  
+### **Tree Calculate Expression** (Java)  
+A command-line program that **transforms mathematical expressions** into a format that is easy to understand and calculates the result based on the given input. Users can input expressions in **prefix**, **infix**, or **postfix** notation.
 
 #### **How It Works**:
-1. The user selects the notation type:  
-   - **Prefix** (e.g., `+ - 2 3 * 3 4`)  
-   - **Infix** (e.g., `( ( 1 + 2 ) + ( 2 / 3 ) )`)  
-   - **Postfix** (e.g., `2 3 + 4 *`)  
-2. The user enters the expression.  
-3. The program parses the expression, builds a binary tree, and calculates the result.  
+1. **Prefix Notation**:  
+   - Example: `+ - 2 3 * 3 4`  
+2. **Infix Notation**:  
+   - Example: `( ( 1 + 2 ) + ( 2 / 3 ) )`  
+3. **Postfix Notation**:  
+   - Example: `2 3 + 4 *`  
+
+The program parses the input expression and outputs the final result as a standard mathematical equation along with the calculated value.
 
 ---
 
-### **3️⃣ Game Rental Store** (C++)  
-A command-line program that simulates a **game rental store system**. Users can rent games, specify rental durations, and split costs among friends. The program generates a **summary receipt** as a `.txt` file.  
+### **Game Rental Store** (C++)  
+A command-line program that simulates a **game rental service**. Users can interact with the program by answering questions in a **step-by-step format**, and the program provides a summary and generates a **receipt in a .txt file** if the user requests it.
 
 #### **How It Works**:
-1. The user specifies how many games to rent (up to 5).  
+1. The user is asked how many games they want to rent (up to 5).  
 2. The user specifies the rental duration (in days).  
-3. The user specifies how many people will split the rental cost.  
-4. The program calculates the total cost and displays a breakdown.  
-5. The user can choose to save the receipt as a `.txt` file.  
+3. The user is asked how many people will split the rental cost.  
+4. The user selects the games they want to rent by entering the corresponding number for each game.  
+5. The program calculates the total cost and displays a summary of the rental details.  
+6. The user is asked whether they want a receipt:  
+   - **If Yes**: The program generates a `.txt` file with all rental details.  
+   - **If No**: The program ends without generating a receipt.
+
+This structured flow ensures that users interact with the program in a logical order, making it easy to follow.
 
 ---
 
-### **4️⃣ Puzzle Game** (Java)  
-A simple **number puzzle game** where players must arrange numbers in ascending order by sliding tiles on a 4x4 grid. The game includes a timer and submission feature to check if the puzzle is correctly solved.  
+### **Puzzle Game** (Java)  
+A **number puzzle game** where players must arrange numbers in ascending order by sliding tiles on a 4x4 grid. The game starts with a randomized board and includes a timer to track progress.
 
 #### **Features**:
 - **Start Button**: Randomizes the puzzle layout and starts a 5-minute timer.  
 - **Submit Button**: Checks if the puzzle is correctly solved.  
-- **Exit Button**: Allows the player to exit the game with a confirmation prompt.  
+- **Exit Button**: Allows the player to exit the game with a confirmation prompt.
 
-❗ **Limitation**:  
-- The timer cannot be paused or adjusted mid-game.  
+❗ **Limitation**: The timer cannot be paused or adjusted mid-game.
 
 ---
 
-### **5️⃣ Food Shop Program** (Python)  
-A command-line application that simulates a **food ordering system** with an integrated **promotion checker**. Users can select food items, view their cart, apply promotions, and confirm their orders.  
+### **Food Shop Program** (Python)  
+A command-line application that simulates a **food ordering system**. Users can browse menus, add items to their cart, and apply promotions. The program also includes interactive features such as confirming orders and removing items from the cart.
 
-#### **Features**:
+#### **Main Menu Options**:
 1. **Food and Drinks Menu**:  
-   - Users can choose from various food categories (e.g., local dishes, international cuisines).  
+   - Users can choose from different categories such as food or drinks.  
+   - Once inside, users can select items by typing the corresponding number.
+
 2. **Cart**:  
-   - Displays selected items, total price, and applicable promotions.  
-   - Users can remove items or confirm their orders.  
-3. **Promotion Details**:  
-   - Displays ongoing promotions.  
-4. **Exit Option**:  
-   - Allows users to exit the program with a confirmation prompt.  
+   - Displays the selected items, their quantities, and the total price.  
+   - Automatically applies any available promotions to the cart.  
+   - Users have the following sub-options:  
+     - **Confirm Order**: Finalizes the order and shows the total cost.  
+     - **Remove Item**: Allows users to remove items from the cart by typing the exact item name. If an item is selected multiple times, users must type the name multiple times to remove each instance.  
+     - **Check Promotions**: Displays any applicable promotions.
+
+3. **Promotions Details**:  
+   - Lists available promotions and explains how they apply to specific items.
+
+4. **Exit Program**:  
+   - Ends the program with a confirmation prompt.
+
+#### **How to Input Commands**:
+- To select multiple options at once, type the numbers or commands separated by a **single space**.  
+  Example:  
+  ```
+  1 2 3 4
+  ```
 
 ❗ **Limitation**:  
-- Some price calculations may be incorrect.  
-- Users must remove items one at a time by typing the exact item name.
+- Some price calculations may be incorrect due to unhandled edge cases in the promotion logic.
 
 ---
 
@@ -118,9 +134,6 @@ A command-line application that simulates a **food ordering system** with an int
 
 | 📁 **All Projects Download** | 🔗 [Download Here](https://drive.google.com/file/d/1BLV9xRrML9R6IQlYeqK1TkNZjlUWQqXE/view?usp=sharing) |
 |-----------------------------|-------------------------------------------|
-
----
-
 
 ---
 
