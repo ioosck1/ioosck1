@@ -50,7 +50,7 @@ This project is a chatbot that promotes healthy lifestyle choices by suggesting 
 
 ---
 
-### **Tree Calculate Expression** (Java) [Download Project Files](https://raw.githubusercontent.com/ioosck1/ioosck1/main/project/Treecalexp.java)  
+### **Tree Calculate Expression** (Java) <a href="https://raw.githubusercontent.com/ioosck1/ioosck1/main/project/Treecalexp.java" download>Download Project Files</a>
 A command-line program that **transforms mathematical expressions** into a format that is easy to understand and calculates the result based on the given input. Users can input expressions in **prefix**, **infix**, or **postfix** notation.
 
 #### **How It Works**:
@@ -65,7 +65,7 @@ The program parses the input expression and outputs the final result as a standa
 
 ---
 
-### **Game Rental Store** (C++) [Download Project Files](https://raw.githubusercontent.com/ioosck1/ioosck1/main/project/game%20rental%20store.cpp)  
+### **Game Rental Store** (C++) <a href="https://raw.githubusercontent.com/ioosck1/ioosck1/main/project/game%20rental%20store.cpp" download>Download Project Files</a>
 A command-line program that simulates a **game rental service**. Users can interact with the program by answering questions in a **step-by-step format**, and the program provides a summary and generates a **receipt in a .txt file** if the user requests it.
 
 #### **How It Works**:
@@ -94,7 +94,7 @@ A **number puzzle game** where players must arrange numbers in ascending order b
 
 ---
 
-### **Food Shop Program** (Python) [Download Project Files](https://raw.githubusercontent.com/ioosck1/ioosck1/main/project/Food_Shop3.py)   
+### **Food Shop Program** (Python) <a href="https://raw.githubusercontent.com/ioosck1/ioosck1/main/project/Food_Shop3.py" download>Download Project Files</a>
 A command-line application that simulates a **food ordering system**. Users can browse menus, add items to their cart, and apply promotions. The program also includes interactive features such as confirming orders and removing items from the cart.
 
 #### **Main Menu Options**:
