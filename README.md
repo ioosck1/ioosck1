@@ -30,12 +30,10 @@ A fan-made **MOBA-style map** for **Warcraft III: The Frozen Throne**, created u
 - Go to **Options** -> **Video**.
 - Set **all graphics settings to High** for the best experience.
 
----
-
 ##### 📋 **Credits Model**
-VK Mdx WC3[Visit Source](https://vk.com/mdxwc3)
-Hive Workshop[Visit Source](https://www.hiveworkshop.com/)
-Chaos Realm[Visit Source](https://chaosrealm.co/)
+VK Mdx WC3 [Click Here](https://vk.com/mdxwc3)
+Hive Workshop [Click Here](https://www.hiveworkshop.com/)
+Chaos Realm [Click Here](https://chaosrealm.co/)
 
 ---
 
@@ -43,14 +41,16 @@ Chaos Realm[Visit Source](https://chaosrealm.co/)
 
 These are projects I have completed as part of coursework, with the final submission to the instructor. No further revisions were made after submission.
 
-### **Alco-Free Helper Chatbot** (Python)  
+---
+
+### **Alco-Free Helper Chatbot** (Python) [Download Project Files](projects/2023/Alco-Free%20Helper%20Chatbot.py)  
 This project is a chatbot that promotes healthy lifestyle choices by suggesting **non-alcoholic drinks**. The chatbot is built using **Python** and trained on a dataset of predefined phrases categorized into **6 different classes**. The AI responds with fixed answers based on the detected class.
 
-🔗 [Download Chatbot Detail](https://drive.google.com/file/d/1Dv4lfBYVDrJ_FkvrqYGSY6O6aX8vdZYt/view?usp=sharing)
+🔗 [Visit Detail](https://drive.google.com/file/d/1Dv4lfBYVDrJ_FkvrqYGSY6O6aX8vdZYt/view?usp=sharing)
 
 ---
 
-### **Tree Calculate Expression** (Java)  
+### **Tree Calculate Expression** (Java) [Download Project Files](projects/2023/Alco-Free%20Helper%20Chatbot.py)  
 A command-line program that **transforms mathematical expressions** into a format that is easy to understand and calculates the result based on the given input. Users can input expressions in **prefix**, **infix**, or **postfix** notation.
 
 #### **How It Works**:
@@ -65,7 +65,7 @@ The program parses the input expression and outputs the final result as a standa
 
 ---
 
-### **Game Rental Store** (C++)  
+### **Game Rental Store** (C++) [Download Project Files](projects/2023/Alco-Free%20Helper%20Chatbot.py)  
 A command-line program that simulates a **game rental service**. Users can interact with the program by answering questions in a **step-by-step format**, and the program provides a summary and generates a **receipt in a .txt file** if the user requests it.
 
 #### **How It Works**:
@@ -82,7 +82,7 @@ This structured flow ensures that users interact with the program in a logical o
 
 ---
 
-### **Puzzle Game** (Java)  
+### **Puzzle Game** (Java) [Download Project Files](projects/2023/Alco-Free%20Helper%20Chatbot.py)  
 A **number puzzle game** where players must arrange numbers in ascending order by sliding tiles on a 4x4 grid. The game starts with a randomized board and includes a timer to track progress.
 
 #### **Features**:
@@ -94,7 +94,7 @@ A **number puzzle game** where players must arrange numbers in ascending order b
 
 ---
 
-### **Food Shop Program** (Python)  
+### **Food Shop Program** (Python) [Download Project Files](projects/2023/Alco-Free%20Helper%20Chatbot.py)   
 A command-line application that simulates a **food ordering system**. Users can browse menus, add items to their cart, and apply promotions. The program also includes interactive features such as confirming orders and removing items from the cart.
 
 #### **Main Menu Options**:
@@ -125,12 +125,6 @@ A command-line application that simulates a **food ordering system**. Users can 
 
 ❗ **Limitation**:  
 - Some price calculations may be incorrect due to unhandled edge cases in the promotion logic.
-
----
-
-## 📄 **Project Files**  
-
-📁 **All Projects Download** 🔗[Download Here](https://drive.google.com/file/d/1BLV9xRrML9R6IQlYeqK1TkNZjlUWQqXE/view?usp=sharing)
 
 ---
 
