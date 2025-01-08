@@ -29,15 +29,13 @@ A fan-made **MOBA-style map** for **Warcraft III: The Frozen Throne**, created u
 - Open **Warcraft III**.
 - Go to **Options** -> **Video**.
 - Set **all graphics settings to High** for the best experience.
+
 ---
 
-
 ##### 📋 **Credits Model**
-| Source                | Link                                      |
-|-----------------------|-------------------------------------------|
-| VK Mdx WC3            | [Visit Source](https://vk.com/mdxwc3)     |
-| Hive Workshop         | [Visit Source](https://www.hiveworkshop.com/) |
-| Chaos Realm           | [Visit Source](https://chaosrealm.co/)    |
+VK Mdx WC3[Visit Source](https://vk.com/mdxwc3)
+Hive Workshop[Visit Source](https://www.hiveworkshop.com/)
+Chaos Realm[Visit Source](https://chaosrealm.co/)
 
 ---
 
@@ -132,8 +130,7 @@ A command-line application that simulates a **food ordering system**. Users can 
 
 ## 📄 **Project Files**  
 
-| 📁 **All Projects Download** | 🔗 [Download Here](https://drive.google.com/file/d/1BLV9xRrML9R6IQlYeqK1TkNZjlUWQqXE/view?usp=sharing) |
-|-----------------------------|-------------------------------------------|
+📁 **All Projects Download** 🔗[Download Here](https://drive.google.com/file/d/1BLV9xRrML9R6IQlYeqK1TkNZjlUWQqXE/view?usp=sharing)
 
 ---
 
