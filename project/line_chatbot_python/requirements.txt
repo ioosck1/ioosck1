@@ -1,0 +1,6 @@
+tensorflow == 2.14.0
+Flask==3.0.0
+requests==2.31.0
+pythainlp==4.0.2
+numpy==1.26.1
+tzdata==2023.3
